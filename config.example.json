@@ -1,0 +1,16 @@
+{
+  "save_dir": "",
+  "logo_path": "",
+  "background_color": "#1A1A1A",
+  "caption_color": "#FFFFFF",
+  "highlight_color": "#FFC840",
+  "caption_font": "Noto Kufi Arabic",
+  "caption_fontsize": 74,
+  "logo_width_px": 220,
+  "clip_min_seconds": 30,
+  "clip_max_seconds": 60,
+  "num_clips": 5,
+  "words_per_line_max": 4,
+  "assemblyai_api_key_env": "ASSEMBLYAI_API_KEY",
+  "llm_api_key_env": "GEMINI_API_KEY"
+}
